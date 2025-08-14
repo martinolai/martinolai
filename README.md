@@ -10,9 +10,9 @@ Currently working on:
 
 ## Skills
 
-![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![C++](https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg)
+![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg)
+![SQL](https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png)
 
 
 ## Socials
