@@ -12,12 +12,12 @@ Currently working on:
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="36" height="36" alt="C++" style="max-width: 100%; height: auto; max-height: 36px;"></a>
 <a href="https://www.python.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="max-width: 100%; height: auto; max-height: 36px;"></a>
-<a href="https://www.mysql.com/" rel="nofollow"><img src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" width="36" height="36" alt="Python" style="max-width: 100%; height: auto; max-height: 36px;"></a>
+<a href="https://www.mysql.com/" rel="nofollow"><img src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" width="36" height="36" alt="SQL" style="max-width: 100%; height: auto; max-height: 36px;"></a>
 
 
 ## Socials
 
 <a href="https://www.github.com/martinolai"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="max-width: 100%; height: auto; max-height: 32px;"></a>
 <a href="https://www.linkedin.com/in/martino-lai/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%; height: auto; max-height: 32px;"></a>
-<a href="https://telegram.me/SmartMarty" rel="nofollow"><img height="32" width="32" src="https://camo.githubusercontent.com/d3e445496a7d9bfe28c77a58b057240a8827d9d5f356be9092681a46375f6491/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38322f54656c656772616d5f6c6f676f2e7376672f3130323470782d54656c656772616d5f6c6f676f2e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" style="max-width: 100%; height: auto; max-height: 32px;"></a> 
+<a href="https://telegram.me/SmartMarty" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" style="max-width: 100%; height: auto; max-height: 32px;"></a> 
 
