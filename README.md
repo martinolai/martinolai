@@ -10,7 +10,7 @@ Currently working on:
 
 ## Skills
 
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" style="max-width: 100%; height: auto; max-height: 36px;"></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="36" height="36" alt="C++" style="max-width: 100%; height: auto; max-height: 36px;"></a>
 <a href="https://www.python.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="max-width: 100%; height: auto; max-height: 36px;"></a>
 <a href="https://www.mysql.com/" rel="nofollow"><img src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" width="36" height="36" alt="Python" style="max-width: 100%; height: auto; max-height: 36px;"></a>
 
