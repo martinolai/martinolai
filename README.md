@@ -6,6 +6,8 @@ I'm a student at University of Pisa
 
 Currently working on:
 
+• os-scheduling-simulator - A program that simulates four CPU scheduling algorithms (FCFS, SJF, RR, Priority) to demonstrate how each handles process execution and calculate their performance metrics
+
 • Algorithm-Solutions - Competitive programming & algorithmic exercises from LeetCode, Skiena, Codeforces
 
 ## Skills
