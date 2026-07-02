@@ -53,7 +53,21 @@ Currently working on:
 
 ## Socials
 
-<a href="https://www.github.com/martinolai"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="max-width: 100%; height: auto; max-height: 32px;"></a>
-<a href="https://www.linkedin.com/in/martino-lai/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%; height: auto; max-height: 32px;"></a>
-<a href="https://telegram.me/SmartMarty" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png"  width="32" height="32" style="max-width: 100%; height: auto; max-height: 32px;"></a> 
+<p>
+  <!-- GitHub -->
+  <a href="https://www.github.com/martinolai" target="_blank" rel="nofollow">
+    <img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub" style="max-width: 100%; height: auto; max-height: 32px; margin-right: 15px;">
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/martino-lai/" target="_blank" rel="nofollow">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" style="max-width: 100%; height: auto; max-height: 32px; margin-right: 15px;">
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://telegram.me/SmartMarty" target="_blank" rel="nofollow">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" height="32" alt="Telegram" style="max-width: 100%; height: auto; max-height: 32px;">
+  </a>
+</p>
+
 
