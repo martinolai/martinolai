@@ -13,6 +13,10 @@ Currently working on:
 ## Skills
 
 <p>
+  <!-- Assembly -->
+  <a href="https://en.wikipedia.org/wiki/Assembly_language" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/assembly.svg" width="36" height="36" alt="Assembly" style="max-width: 100%; height: auto; max-height: 36px; margin-right: 10px;">
+  </a>
   <!-- C++ -->
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" style="max-width: 100%; height: auto; max-height: 36px; margin-right: 10px;">
@@ -46,6 +50,7 @@ Currently working on:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="36" height="36" alt="MATLAB" style="max-width: 100%; height: auto; max-height: 36px;">
   </a>
 </p>
+
 
 
 
